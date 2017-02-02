@@ -1,5 +1,5 @@
 function [w,lambda] = raytracing(R,t,uv,K,fx,fy,cx,cy)
-%RAYTRACING generates world point corr. from image point
+%RAYTRACING generates world point coordinate from image point
 %
 % AUTHOR  Sebastian Dingler <s.dingler@gmail.com>
 %
